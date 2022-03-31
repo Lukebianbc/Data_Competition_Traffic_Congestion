@@ -1,1 +1,1 @@
-# Data_Competition_Traffic_Congestion
+# This is the project about data competition. Train.CSV is the training data and Test.CSV is the test data,which I use to get my MSE. The detailed Kaggle webiste is here: https://www.kaggle.com/competitions/tabular-playground-series-mar-2022/rules
